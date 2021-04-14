@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Hackathon", "Hackathon\", "{029DEEB1-9FB5-45B5-8EC2-E84EDAC967DD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49816"
+		Debug.AspNetCompiler.PhysicalPath = "Hackathon\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49816\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49816"
+		Release.AspNetCompiler.PhysicalPath = "Hackathon\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49816\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49816"
+		SlnRelativePath = "Hackathon\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029DEEB1-9FB5-45B5-8EC2-E84EDAC967DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029DEEB1-9FB5-45B5-8EC2-E84EDAC967DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47FEAB6B-9D18-4998-944F-44707E7D07DF}
+	EndGlobalSection
+EndGlobal
